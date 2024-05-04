@@ -7,14 +7,14 @@ export const educations = [
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "12th",
+    duration: "2018 - 2019",
+    institution: "KV NO.2 ,AFS,CHAKERI KANPUR",
   },
   {
     id: 3,
     title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    duration: "2016 - 2017",
+    institution: "KV NO.1,AFS,AGRA",
   }
 ]
